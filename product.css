@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: wheat;
+}
+header{
+    background-color: greenyellow;
+    height: 50px;
+    width: 100%;
+    border-bottom: 4px black solid;
+}
+
+a{
+    padding: 0px 40px;
+    font-size: 40px;
+}
+
+div{
+    background-color: aqua;
+    padding: 0%;
+    height: 50px;
+    width: 100%;
+}
